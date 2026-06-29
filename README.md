@@ -4,7 +4,8 @@
 
 ---
 
-<img width="1325" height="2428" alt="Health_Intelligence_Dashboard-2" src="https://github.com/user-attachments/assets/8ca580ba-a99e-40de-89af-1bf66a105bdf" />
+<img width="1325" height="2428" alt="Health_Intelligence_Dashboard_reports" src="https://github.com/user-attachments/assets/fd8e42fd-7c9c-4161-be87-3d684d186795" />
+
 
 ---
 
